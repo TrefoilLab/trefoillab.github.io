@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Trefoil Lab Website
+title: Trefoil Lab
 
 # Your name to show in the footer
 author: Bjoern Kjos-Hanssen, Christopher Pascual, Joshua Hicks
@@ -22,8 +22,8 @@ author: Bjoern Kjos-Hanssen, Christopher Pascual, Joshua Hicks
 navbar-links:
   Meet the Team!: "team"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Play the Game!: "https://www.roblox.com/games/5145672561/Trefoil-lab"
+    - Github Page: "https://github.com/TrefoilLab"
 
 ################
 # --- Logo --- #
