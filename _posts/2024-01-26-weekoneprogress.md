@@ -2,7 +2,7 @@
 layout: post
 title: Getting started!
 subtitle: Week 1 Progress Report
-cover-img: /assets/img/week1.jpg
+cover-img: /assets/img/week1.png
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [Lua, Roblox Studio]
