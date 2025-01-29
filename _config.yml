@@ -20,6 +20,7 @@ author: Bjoern Kjos-Hanssen, Christopher Pascual, Joshua Hicks
 ###############################################
 
 navbar-links:
+  About: "about"
   Meet the Team!: "team"
   Resources:
     - Play the Game!: "https://www.roblox.com/games/5145672561/Trefoil-lab"
