@@ -14,10 +14,13 @@ We were also able to procedurally generate both a trefoil and figure 8 knot, mak
 easier instead of using hardcoded values.
 
 Old Trefoil: 
-<img src="/assets/img/oldtrefoil1.JPG">
+
+<img src="/assets/img/oldtrefoil1.JPG" alt="oldtrefoil">
 
 New Trefoil:
-<img src="/assets/img/newtrefoil.JPG">
+
+<img src="/assets/img/newtrefoil.JPG" alt="newtrefoil">
 
 New Fig 8 Knot:
-<img src="/assets/img/newfig8.JPG">
+
+<img src="/assets/img/newfig8.JPG" alt="newfig8">
