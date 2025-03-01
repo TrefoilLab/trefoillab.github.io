@@ -15,11 +15,10 @@ the newly hollowed out trefoil knot.
 
 Hollow Trefoil:
 
-<img src="/assets/img/oldtrefoil1.JPG" alt="hollowtrefoil.JPG">
+<img src="/assets/img/hollowtrefoil.JPG" alt="hollowtrefoil.JPG">
 
 We also added a lot of different variables to allow us to easily manipulate the trefoil such as radius, sizing, num points, etc:
 
-<img src="/assets/img/oldtrefoil1.JPG" alt="hollowtrefoil.JPG">
-<img src="/assets/img/oldtrefoil1.JPG" alt="lesspoints.JPG">
-<img src="/assets/img/oldtrefoil1.JPG" alt="smallerblocksize.JPG">
-<img src="/assets/img/oldtrefoil1.JPG" alt="spacingchanged.JPG">
+<img src="/assets/img/lesspoints.JPG" alt="lesspoints.JPG">
+<img src="/assets/img/smallerblocksize.JPG" alt="smallerblocksize.JPG">
+<img src="/assets/img/spacingchanged.JPG" alt="spacingchanged.JPG">
