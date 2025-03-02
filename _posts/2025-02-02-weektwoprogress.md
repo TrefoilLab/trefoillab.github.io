@@ -9,7 +9,7 @@ tags: [Lua, Roblox Studio]
 author: Chris Pascual
 ---
 
-This week, we came up with many game ideas that incorporate trefoil knots. This included: an obby (obstacle course), a mariocart-like game, and a dungeon crawler.
+This week, we came up with many game ideas that incorporate trefoil knots. This included: an obby (obstacle course), a m4riocart-like game, and a dungeon crawler.
 In order to incorporate these ideas, we needed hollow out the trefoil knot, allowing players to traverse the inside. With some extra math we were able to create
 the newly hollowed out trefoil knot.
 
