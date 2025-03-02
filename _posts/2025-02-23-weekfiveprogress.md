@@ -15,7 +15,7 @@ you can collect coins for a higher score!
 
 Here is a drawing of the idea made by our sponsor:
 
-<img src="/assets/img/chainjump.JPG" alt="chainjump.JPG">
+<img src="/assets/img/chainjump.png" alt="chainjump.png">
 
 For this week, we did researching on similar games to see how we could implement this idea.
 For now, we created a basic sliding animation that'll be used in the level:
